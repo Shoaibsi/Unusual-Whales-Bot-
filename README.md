@@ -15,7 +15,7 @@ An advanced, AI-powered options trading bot designed to identify high-potential 
 ## 🛠 Technical Stack
 
 - **Language**: Python
-- **APIs**: TastyTrade, Telegram
+- **APIs**: TastyTrade, Telegram, Unusual Whales
 - **Key Libraries**: 
   - `requests`
   - `websockets`
